@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="F:/jars_wiki/de.tudarmstadt.ukp.wikipedia.api-0.9.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="F:/jars_wiki/de.tudarmstadt.ukp.wikipedia.datamachine-0.9.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="F:/jars_wiki/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/lucene-4.8/lucene-core-4.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/lucene-4.8/lucene-analyzers-common-4.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/lucene-4.8/lucene-queryparser-4.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/chunker.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/duck1.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/gnu.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/morphAnalyzer.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/opennlp.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/splitsvm.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/trove-2.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/jars_local/tagger/tagger.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
